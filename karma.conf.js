@@ -17,7 +17,7 @@ module.exports = function(config) {
     files: [
       'libs/angular.js',
       'libs/angular-mocks.js',
-      'src/index.html',
+      //'src/index.html',
 
       // for testing orders.getTotalSpent()
       // 'src/main.js',
